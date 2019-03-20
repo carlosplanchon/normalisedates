@@ -9,7 +9,7 @@ with open("README.md", "r") as f:
 setup(
     name="normalisedates",
     packages=["normalisedates"],
-    version="0.1",
+    version="0.2",
     license="GPL3",
     description="Python3 module to normalise dates.",
     long_description=readme,
@@ -18,7 +18,7 @@ setup(
     author_email="bubbledoloresuruguay2@gmail.com",
     url="https://github.com/carlosplanchon/normalisedates",
     download_url="https://github.com/carlosplanchon/"
-        "normalisedates/archive/v0.1.tar.gz",
+        "normalisedates/archive/v0.2.tar.gz",
     keywords=["dates", "normalise"],
     classifiers=[
         "Intended Audience :: Developers",
